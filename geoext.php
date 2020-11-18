@@ -293,4 +293,3 @@ function cURL_Get($url, $proxy = '', $proxytype = -1, $proxyauth = '')
 	curl_close($ch);
 	return $data;
 }
-?>
